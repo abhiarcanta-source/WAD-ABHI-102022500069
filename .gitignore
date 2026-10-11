@@ -1,0 +1,18 @@
+# File koneksi asli, jangan di-commit (berisi password)
+KONEKSI.php
+
+# File konfigurasi lokal
+.env
+config.local.php
+
+# File sistem
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.sublime-project
+
+# Log
+*.log
